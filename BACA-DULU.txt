@@ -1,0 +1,10 @@
+MAYOK GORES GORES - Panduan Upload ke GitHub
+
+1. Ekstrak (Extract All) file ZIP ini ke sebuah folder. Jangan jalankan .bat dari dalam ZIP.
+2. Klik dua kali: deploy-github.bat
+3. Isi username GitHub dan nama repository (Enter = mayok-gores-gores).
+4. Login GitHub di browser jika diminta. Skrip akan membuat repository, upload semua file, dan mengaktifkan GitHub Pages.
+5. Tunggu 1-2 menit, lalu buka: https://USERNAME.github.io/NAMA-REPO/
+6. Bagikan link itu ke WhatsApp. Judul, gambar, dan deskripsi game muncul otomatis.
+
+Tips: jika preview WhatsApp belum berubah, itu cache lama. Coba kirim link dengan tambahan ?v=2 di belakangnya.
